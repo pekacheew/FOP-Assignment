@@ -1,9 +1,5 @@
 const promoCodes = [
     {
-        promoCode : "BUANGKOKSQ",
-        discount  : 5
-    },
-    {
         promoCode : "BKSQKPT",
         discount  : 3
     },
